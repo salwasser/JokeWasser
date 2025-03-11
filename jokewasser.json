@@ -1,0 +1,15 @@
+{
+	"id": "JokeWasser",
+	"name": "JokeWasser",
+	"display_name": "JokeWasser",
+	"author": ["Salwasser"],
+	"description": "My first Balatro mod.",
+	"prefix": "salwasser",
+	"main_file": "main.lua",
+	"badge_colour": "c7638f",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+	]
+}
